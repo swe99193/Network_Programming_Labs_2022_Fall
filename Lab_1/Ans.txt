@@ -1,0 +1,67 @@
+*****Welcome to Game 1A2B*****
+1. Each question is a 4-digit secret number.
+2. After each guess, you will get a hint with the following information:
+2.1 The number of "A", which are digits in the guess that are in the correct position.
+2.2 The number of "B", which are digits in the guess that are in the answer but are in the wrong position.
+The hint will be formatted as "xAyB".
+3. 5 chances for each question.
+1. Each question is a 4-digit secret number.
+2. After each guess, you will get a hint with the following information:
+2.1 The number of "A", which are digits in the guess that are in the correct position.
+2.2 The number of "B", which are digits in the guess that are in the answer but are in the wrong position.
+The hint will be formatted as "xAyB".
+3. 5 chances for each question.
+*****Welcome to Game 1A2B*****
+Usage: register <username> <email> <password>
+Usage: login <username> <password>
+Please login first.
+Username not found.
+Register successfully.
+Username is already used.
+Email is already used.
+Password not correct.
+Username not found.
+Welcome, 0.
+Please logout first.
+Bye, 0.
+Please login first.
+*****Welcome to Game 1A2B*****
+1. Each question is a 4-digit secret number.
+2. After each guess, you will get a hint with the following information:
+2.1 The number of "A", which are digits in the guess that are in the correct position.
+2.2 The number of "B", which are digits in the guess that are in the answer but are in the wrong position.
+The hint will be formatted as "xAyB".
+3. 5 chances for each question.
+Welcome, 0.
+1. Each question is a 4-digit secret number.
+2. After each guess, you will get a hint with the following information:
+2.1 The number of "A", which are digits in the guess that are in the correct position.
+2.2 The number of "B", which are digits in the guess that are in the answer but are in the wrong position.
+The hint will be formatted as "xAyB".
+3. 5 chances for each question.
+Bye, 0.
+1. Each question is a 4-digit secret number.
+2. After each guess, you will get a hint with the following information:
+2.1 The number of "A", which are digits in the guess that are in the correct position.
+2.2 The number of "B", which are digits in the guess that are in the answer but are in the wrong position.
+The hint will be formatted as "xAyB".
+3. 5 chances for each question.
+Welcome, 0.
+*****Welcome to Game 1A2B*****
+Please login first.
+Please login first.
+Welcome, 0.
+Usage: start-game <4-digit number>
+Please typing a 4-digit number:
+0A1B
+0A2B
+1A0B
+2A0B
+Your guess should be a 4-digit number.
+Your guess should be a 4-digit number.
+Your guess should be a 4-digit number.
+0A0B
+You lose the game!
+Please typing a 4-digit number:
+You got the answer!
+Bye, 0.
