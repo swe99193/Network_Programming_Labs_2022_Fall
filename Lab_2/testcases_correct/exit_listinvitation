@@ -1,0 +1,26 @@
+(0) Register Successfully
+(1) Register Successfully
+(2) Register Successfully
+(3) Register Successfully
+(0) Welcome, 000
+(1) Welcome, 111
+(2) Welcome, 222
+(3) Welcome, 333
+(0) You create private game room 99
+(1) You create private game room 55
+(2) You create private game room 11
+(0) You send invitation to 333<3@gmail.com>
+(Broadcast to 3) You receive invitation from 000<0@gmail.com>
+(1) You send invitation to 333<3@gmail.com>
+(Broadcast to 3) You receive invitation from 111<1@gmail.com>
+(2) You send invitation to 333<3@gmail.com>
+(Broadcast to 3) You receive invitation from 222<2@gmail.com>
+(3) List invitations
+1. 222<2@gmail.com> invite you to join game room 11, invitation code is 999999
+2. 111<1@gmail.com> invite you to join game room 55, invitation code is 999999
+3. 000<0@gmail.com> invite you to join game room 99, invitation code is 999999
+(3) List invitations
+1. 222<2@gmail.com> invite you to join game room 11, invitation code is 999999
+2. 000<0@gmail.com> invite you to join game room 99, invitation code is 999999
+(3) List invitations
+1. 222<2@gmail.com> invite you to join game room 11, invitation code is 999999

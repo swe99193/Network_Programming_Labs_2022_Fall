@@ -1,0 +1,41 @@
+*** testcases_correct/gaming_multi
+--- build/testcases_your/gaming_multi
+***************
+*** 195,201 ****
+  (Broadcast to 8) 000 guess '2233' and got '0A0B'
+  (Broadcast to 9) 000 guess '2233' and got '0A0B'
+  (1) 111 guess '2233' and got '0A0B'
+- (Broadcast to 0) 111 guess '2233' and got '0A0B'
+  (Broadcast to 2) 111 guess '2233' and got '0A0B'
+  (Broadcast to 3) 111 guess '2233' and got '0A0B'
+  (Broadcast to 4) 111 guess '2233' and got '0A0B'
+--- 195,200 ----
+***************
+*** 205,211 ****
+  (Broadcast to 8) 111 guess '2233' and got '0A0B'
+  (Broadcast to 9) 111 guess '2233' and got '0A0B'
+  (2) 222 guess '2233' and got '0A0B'
+- (Broadcast to 0) 222 guess '2233' and got '0A0B'
+  (Broadcast to 1) 222 guess '2233' and got '0A0B'
+  (Broadcast to 3) 222 guess '2233' and got '0A0B'
+  (Broadcast to 4) 222 guess '2233' and got '0A0B'
+--- 204,209 ----
+***************
+*** 215,221 ****
+  (Broadcast to 8) 222 guess '2233' and got '0A0B'
+  (Broadcast to 9) 222 guess '2233' and got '0A0B'
+  (3) 333 guess '2233' and got '0A0B'
+! (Broadcast to 0) 333 guess '2233' and got '0A0B'
+  (Broadcast to 1) 333 guess '2233' and got '0A0B'
+  (Broadcast to 2) 333 guess '2233' and got '0A0B'
+  (Broadcast to 4) 333 guess '2233' and got '0A0B'
+--- 213,221 ----
+  (Broadcast to 8) 222 guess '2233' and got '0A0B'
+  (Broadcast to 9) 222 guess '2233' and got '0A0B'
+  (3) 333 guess '2233' and got '0A0B'
+! (Broadcast to 0) 111 guess '2233' and got '0A0B'
+! 222 guess '2233' and got '0A0B'
+! 333 guess '2233' and got '0A0B'
+  (Broadcast to 1) 333 guess '2233' and got '0A0B'
+  (Broadcast to 2) 333 guess '2233' and got '0A0B'
+  (Broadcast to 4) 333 guess '2233' and got '0A0B'

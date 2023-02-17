@@ -1,0 +1,13 @@
+*** testcases_correct/managerexitgame
+--- build/testcases_your/managerexitgame
+***************
+*** 34,41 ****
+  (Broadcast to 1) Welcome, 222 to game!
+  (3) You join game room 123
+  (Broadcast to 1) Welcome, 333 to game!
+- (Broadcast to 2) Welcome, 333 to game!
+  (1) Game start! Current player is 111
+- (Broadcast to 2) Game start! Current player is 111
+  (Broadcast to 3) Game start! Current player is 111
+  (3) Game has not started yet
+--- 34,39 ----

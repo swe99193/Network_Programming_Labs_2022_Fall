@@ -1,0 +1,346 @@
+(0) Register Successfully
+(1) Register Successfully
+(2) Register Successfully
+(3) Register Successfully
+(4) Register Successfully
+(5) Register Successfully
+(6) Register Successfully
+(7) Register Successfully
+(8) Register Successfully
+(9) Register Successfully
+(0) Welcome, 000
+(1) Welcome, 111
+(2) Welcome, 222
+(3) Welcome, 333
+(4) Welcome, 444
+(5) Welcome, 555
+(6) Welcome, 666
+(7) Welcome, 777
+(8) Welcome, 888
+(9) Welcome, 999
+(0) You create public game room 123
+(0) You are already in game room 123, please leave game room
+(1) You join game room 123
+(Broadcast to 0) Welcome, 111 to game!
+(2) You join game room 123
+(Broadcast to 0) Welcome, 222 to game!
+(Broadcast to 1) Welcome, 222 to game!
+(3) You join game room 123
+(Broadcast to 0) Welcome, 333 to game!
+(Broadcast to 1) Welcome, 333 to game!
+(Broadcast to 2) Welcome, 333 to game!
+(4) You join game room 123
+(Broadcast to 0) Welcome, 444 to game!
+(Broadcast to 1) Welcome, 444 to game!
+(Broadcast to 2) Welcome, 444 to game!
+(Broadcast to 3) Welcome, 444 to game!
+(5) You join game room 123
+(Broadcast to 0) Welcome, 555 to game!
+(Broadcast to 1) Welcome, 555 to game!
+(Broadcast to 2) Welcome, 555 to game!
+(Broadcast to 3) Welcome, 555 to game!
+(Broadcast to 4) Welcome, 555 to game!
+(6) You join game room 123
+(Broadcast to 0) Welcome, 666 to game!
+(Broadcast to 1) Welcome, 666 to game!
+(Broadcast to 2) Welcome, 666 to game!
+(Broadcast to 3) Welcome, 666 to game!
+(Broadcast to 4) Welcome, 666 to game!
+(Broadcast to 5) Welcome, 666 to game!
+(7) You join game room 123
+(Broadcast to 0) Welcome, 777 to game!
+(Broadcast to 1) Welcome, 777 to game!
+(Broadcast to 2) Welcome, 777 to game!
+(Broadcast to 3) Welcome, 777 to game!
+(Broadcast to 4) Welcome, 777 to game!
+(Broadcast to 5) Welcome, 777 to game!
+(Broadcast to 6) Welcome, 777 to game!
+(8) You join game room 123
+(Broadcast to 0) Welcome, 888 to game!
+(Broadcast to 1) Welcome, 888 to game!
+(Broadcast to 2) Welcome, 888 to game!
+(Broadcast to 3) Welcome, 888 to game!
+(Broadcast to 4) Welcome, 888 to game!
+(Broadcast to 5) Welcome, 888 to game!
+(Broadcast to 6) Welcome, 888 to game!
+(Broadcast to 7) Welcome, 888 to game!
+(9) You join game room 123
+(Broadcast to 0) Welcome, 999 to game!
+(Broadcast to 1) Welcome, 999 to game!
+(Broadcast to 2) Welcome, 999 to game!
+(Broadcast to 3) Welcome, 999 to game!
+(Broadcast to 4) Welcome, 999 to game!
+(Broadcast to 5) Welcome, 999 to game!
+(Broadcast to 6) Welcome, 999 to game!
+(Broadcast to 7) Welcome, 999 to game!
+(Broadcast to 8) Welcome, 999 to game!
+(0) Game start! Current player is 000
+(Broadcast to 1) Game start! Current player is 000
+(Broadcast to 2) Game start! Current player is 000
+(Broadcast to 3) Game start! Current player is 000
+(Broadcast to 4) Game start! Current player is 000
+(Broadcast to 5) Game start! Current player is 000
+(Broadcast to 6) Game start! Current player is 000
+(Broadcast to 7) Game start! Current player is 000
+(Broadcast to 8) Game start! Current player is 000
+(Broadcast to 9) Game start! Current player is 000
+(0) 000 guess '2233' and got '0A0B'
+(Broadcast to 1) 000 guess '2233' and got '0A0B'
+(Broadcast to 2) 000 guess '2233' and got '0A0B'
+(Broadcast to 3) 000 guess '2233' and got '0A0B'
+(Broadcast to 4) 000 guess '2233' and got '0A0B'
+(Broadcast to 5) 000 guess '2233' and got '0A0B'
+(Broadcast to 6) 000 guess '2233' and got '0A0B'
+(Broadcast to 7) 000 guess '2233' and got '0A0B'
+(Broadcast to 8) 000 guess '2233' and got '0A0B'
+(Broadcast to 9) 000 guess '2233' and got '0A0B'
+(1) 111 guess '2233' and got '0A0B'
+(Broadcast to 0) 111 guess '2233' and got '0A0B'
+(Broadcast to 2) 111 guess '2233' and got '0A0B'
+(Broadcast to 3) 111 guess '2233' and got '0A0B'
+(Broadcast to 4) 111 guess '2233' and got '0A0B'
+(Broadcast to 5) 111 guess '2233' and got '0A0B'
+(Broadcast to 6) 111 guess '2233' and got '0A0B'
+(Broadcast to 7) 111 guess '2233' and got '0A0B'
+(Broadcast to 8) 111 guess '2233' and got '0A0B'
+(Broadcast to 9) 111 guess '2233' and got '0A0B'
+(2) 222 guess '2233' and got '0A0B'
+(Broadcast to 0) 222 guess '2233' and got '0A0B'
+(Broadcast to 1) 222 guess '2233' and got '0A0B'
+(Broadcast to 3) 222 guess '2233' and got '0A0B'
+(Broadcast to 4) 222 guess '2233' and got '0A0B'
+(Broadcast to 5) 222 guess '2233' and got '0A0B'
+(Broadcast to 6) 222 guess '2233' and got '0A0B'
+(Broadcast to 7) 222 guess '2233' and got '0A0B'
+(Broadcast to 8) 222 guess '2233' and got '0A0B'
+(Broadcast to 9) 222 guess '2233' and got '0A0B'
+(3) 333 guess '2233' and got '0A0B'
+(Broadcast to 0) 333 guess '2233' and got '0A0B'
+(Broadcast to 1) 333 guess '2233' and got '0A0B'
+(Broadcast to 2) 333 guess '2233' and got '0A0B'
+(Broadcast to 4) 333 guess '2233' and got '0A0B'
+(Broadcast to 5) 333 guess '2233' and got '0A0B'
+(Broadcast to 6) 333 guess '2233' and got '0A0B'
+(Broadcast to 7) 333 guess '2233' and got '0A0B'
+(Broadcast to 8) 333 guess '2233' and got '0A0B'
+(Broadcast to 9) 333 guess '2233' and got '0A0B'
+(4) 444 guess '2233' and got '0A0B'
+(Broadcast to 0) 444 guess '2233' and got '0A0B'
+(Broadcast to 1) 444 guess '2233' and got '0A0B'
+(Broadcast to 2) 444 guess '2233' and got '0A0B'
+(Broadcast to 3) 444 guess '2233' and got '0A0B'
+(Broadcast to 5) 444 guess '2233' and got '0A0B'
+(Broadcast to 6) 444 guess '2233' and got '0A0B'
+(Broadcast to 7) 444 guess '2233' and got '0A0B'
+(Broadcast to 8) 444 guess '2233' and got '0A0B'
+(Broadcast to 9) 444 guess '2233' and got '0A0B'
+(5) 555 guess '2233' and got '0A0B'
+(Broadcast to 0) 555 guess '2233' and got '0A0B'
+(Broadcast to 1) 555 guess '2233' and got '0A0B'
+(Broadcast to 2) 555 guess '2233' and got '0A0B'
+(Broadcast to 3) 555 guess '2233' and got '0A0B'
+(Broadcast to 4) 555 guess '2233' and got '0A0B'
+(Broadcast to 6) 555 guess '2233' and got '0A0B'
+(Broadcast to 7) 555 guess '2233' and got '0A0B'
+(Broadcast to 8) 555 guess '2233' and got '0A0B'
+(Broadcast to 9) 555 guess '2233' and got '0A0B'
+(6) 666 guess '2233' and got '0A0B'
+(Broadcast to 0) 666 guess '2233' and got '0A0B'
+(Broadcast to 1) 666 guess '2233' and got '0A0B'
+(Broadcast to 2) 666 guess '2233' and got '0A0B'
+(Broadcast to 3) 666 guess '2233' and got '0A0B'
+(Broadcast to 4) 666 guess '2233' and got '0A0B'
+(Broadcast to 5) 666 guess '2233' and got '0A0B'
+(Broadcast to 7) 666 guess '2233' and got '0A0B'
+(Broadcast to 8) 666 guess '2233' and got '0A0B'
+(Broadcast to 9) 666 guess '2233' and got '0A0B'
+(7) 777 guess '2233' and got '0A0B'
+(Broadcast to 0) 777 guess '2233' and got '0A0B'
+(Broadcast to 1) 777 guess '2233' and got '0A0B'
+(Broadcast to 2) 777 guess '2233' and got '0A0B'
+(Broadcast to 3) 777 guess '2233' and got '0A0B'
+(Broadcast to 4) 777 guess '2233' and got '0A0B'
+(Broadcast to 5) 777 guess '2233' and got '0A0B'
+(Broadcast to 6) 777 guess '2233' and got '0A0B'
+(Broadcast to 8) 777 guess '2233' and got '0A0B'
+(Broadcast to 9) 777 guess '2233' and got '0A0B'
+(8) 888 guess '2233' and got '0A0B'
+(Broadcast to 0) 888 guess '2233' and got '0A0B'
+(Broadcast to 1) 888 guess '2233' and got '0A0B'
+(Broadcast to 2) 888 guess '2233' and got '0A0B'
+(Broadcast to 3) 888 guess '2233' and got '0A0B'
+(Broadcast to 4) 888 guess '2233' and got '0A0B'
+(Broadcast to 5) 888 guess '2233' and got '0A0B'
+(Broadcast to 6) 888 guess '2233' and got '0A0B'
+(Broadcast to 7) 888 guess '2233' and got '0A0B'
+(Broadcast to 9) 888 guess '2233' and got '0A0B'
+(9) 999 guess '2233' and got '0A0B'
+(Broadcast to 0) 999 guess '2233' and got '0A0B'
+(Broadcast to 1) 999 guess '2233' and got '0A0B'
+(Broadcast to 2) 999 guess '2233' and got '0A0B'
+(Broadcast to 3) 999 guess '2233' and got '0A0B'
+(Broadcast to 4) 999 guess '2233' and got '0A0B'
+(Broadcast to 5) 999 guess '2233' and got '0A0B'
+(Broadcast to 6) 999 guess '2233' and got '0A0B'
+(Broadcast to 7) 999 guess '2233' and got '0A0B'
+(Broadcast to 8) 999 guess '2233' and got '0A0B'
+(0) 000 guess '2233' and got '0A0B'
+(Broadcast to 1) 000 guess '2233' and got '0A0B'
+(Broadcast to 2) 000 guess '2233' and got '0A0B'
+(Broadcast to 3) 000 guess '2233' and got '0A0B'
+(Broadcast to 4) 000 guess '2233' and got '0A0B'
+(Broadcast to 5) 000 guess '2233' and got '0A0B'
+(Broadcast to 6) 000 guess '2233' and got '0A0B'
+(Broadcast to 7) 000 guess '2233' and got '0A0B'
+(Broadcast to 8) 000 guess '2233' and got '0A0B'
+(Broadcast to 9) 000 guess '2233' and got '0A0B'
+(1) 111 guess '2233' and got '0A0B'
+(Broadcast to 0) 111 guess '2233' and got '0A0B'
+(Broadcast to 2) 111 guess '2233' and got '0A0B'
+(Broadcast to 3) 111 guess '2233' and got '0A0B'
+(Broadcast to 4) 111 guess '2233' and got '0A0B'
+(Broadcast to 5) 111 guess '2233' and got '0A0B'
+(Broadcast to 6) 111 guess '2233' and got '0A0B'
+(Broadcast to 7) 111 guess '2233' and got '0A0B'
+(Broadcast to 8) 111 guess '2233' and got '0A0B'
+(Broadcast to 9) 111 guess '2233' and got '0A0B'
+(2) 222 guess '2233' and got '0A0B'
+(Broadcast to 0) 222 guess '2233' and got '0A0B'
+(Broadcast to 1) 222 guess '2233' and got '0A0B'
+(Broadcast to 3) 222 guess '2233' and got '0A0B'
+(Broadcast to 4) 222 guess '2233' and got '0A0B'
+(Broadcast to 5) 222 guess '2233' and got '0A0B'
+(Broadcast to 6) 222 guess '2233' and got '0A0B'
+(Broadcast to 7) 222 guess '2233' and got '0A0B'
+(Broadcast to 8) 222 guess '2233' and got '0A0B'
+(Broadcast to 9) 222 guess '2233' and got '0A0B'
+(3) 333 guess '2233' and got '0A0B'
+(Broadcast to 0) 333 guess '2233' and got '0A0B'
+(Broadcast to 1) 333 guess '2233' and got '0A0B'
+(Broadcast to 2) 333 guess '2233' and got '0A0B'
+(Broadcast to 4) 333 guess '2233' and got '0A0B'
+(Broadcast to 5) 333 guess '2233' and got '0A0B'
+(Broadcast to 6) 333 guess '2233' and got '0A0B'
+(Broadcast to 7) 333 guess '2233' and got '0A0B'
+(Broadcast to 8) 333 guess '2233' and got '0A0B'
+(Broadcast to 9) 333 guess '2233' and got '0A0B'
+(4) 444 guess '2233' and got '0A0B'
+(Broadcast to 0) 444 guess '2233' and got '0A0B'
+(Broadcast to 1) 444 guess '2233' and got '0A0B'
+(Broadcast to 2) 444 guess '2233' and got '0A0B'
+(Broadcast to 3) 444 guess '2233' and got '0A0B'
+(Broadcast to 5) 444 guess '2233' and got '0A0B'
+(Broadcast to 6) 444 guess '2233' and got '0A0B'
+(Broadcast to 7) 444 guess '2233' and got '0A0B'
+(Broadcast to 8) 444 guess '2233' and got '0A0B'
+(Broadcast to 9) 444 guess '2233' and got '0A0B'
+(5) 555 guess '2233' and got '0A0B'
+(Broadcast to 0) 555 guess '2233' and got '0A0B'
+(Broadcast to 1) 555 guess '2233' and got '0A0B'
+(Broadcast to 2) 555 guess '2233' and got '0A0B'
+(Broadcast to 3) 555 guess '2233' and got '0A0B'
+(Broadcast to 4) 555 guess '2233' and got '0A0B'
+(Broadcast to 6) 555 guess '2233' and got '0A0B'
+(Broadcast to 7) 555 guess '2233' and got '0A0B'
+(Broadcast to 8) 555 guess '2233' and got '0A0B'
+(Broadcast to 9) 555 guess '2233' and got '0A0B'
+(6) 666 guess '2233' and got '0A0B'
+(Broadcast to 0) 666 guess '2233' and got '0A0B'
+(Broadcast to 1) 666 guess '2233' and got '0A0B'
+(Broadcast to 2) 666 guess '2233' and got '0A0B'
+(Broadcast to 3) 666 guess '2233' and got '0A0B'
+(Broadcast to 4) 666 guess '2233' and got '0A0B'
+(Broadcast to 5) 666 guess '2233' and got '0A0B'
+(Broadcast to 7) 666 guess '2233' and got '0A0B'
+(Broadcast to 8) 666 guess '2233' and got '0A0B'
+(Broadcast to 9) 666 guess '2233' and got '0A0B'
+(7) 777 guess '2233' and got '0A0B'
+(Broadcast to 0) 777 guess '2233' and got '0A0B'
+(Broadcast to 1) 777 guess '2233' and got '0A0B'
+(Broadcast to 2) 777 guess '2233' and got '0A0B'
+(Broadcast to 3) 777 guess '2233' and got '0A0B'
+(Broadcast to 4) 777 guess '2233' and got '0A0B'
+(Broadcast to 5) 777 guess '2233' and got '0A0B'
+(Broadcast to 6) 777 guess '2233' and got '0A0B'
+(Broadcast to 8) 777 guess '2233' and got '0A0B'
+(Broadcast to 9) 777 guess '2233' and got '0A0B'
+(8) 888 guess '2233' and got '0A0B'
+(Broadcast to 0) 888 guess '2233' and got '0A0B'
+(Broadcast to 1) 888 guess '2233' and got '0A0B'
+(Broadcast to 2) 888 guess '2233' and got '0A0B'
+(Broadcast to 3) 888 guess '2233' and got '0A0B'
+(Broadcast to 4) 888 guess '2233' and got '0A0B'
+(Broadcast to 5) 888 guess '2233' and got '0A0B'
+(Broadcast to 6) 888 guess '2233' and got '0A0B'
+(Broadcast to 7) 888 guess '2233' and got '0A0B'
+(Broadcast to 9) 888 guess '2233' and got '0A0B'
+(9) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 0) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 1) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 2) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 3) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 4) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 5) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 6) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 7) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(Broadcast to 8) 999 guess '2233' and got '0A0B'
+Game ends, no one wins
+(0) You are game room manager, please start game first
+(1) Game has not started yet
+(2) Game has not started yet
+(3) Game has not started yet
+(4) Game has not started yet
+(5) Game has not started yet
+(6) Game has not started yet
+(7) Game has not started yet
+(8) Game has not started yet
+(9) Game has not started yet
+(0) Game start! Current player is 000
+(Broadcast to 1) Game start! Current player is 000
+(Broadcast to 2) Game start! Current player is 000
+(Broadcast to 3) Game start! Current player is 000
+(Broadcast to 4) Game start! Current player is 000
+(Broadcast to 5) Game start! Current player is 000
+(Broadcast to 6) Game start! Current player is 000
+(Broadcast to 7) Game start! Current player is 000
+(Broadcast to 8) Game start! Current player is 000
+(Broadcast to 9) Game start! Current player is 000
+(9) Please wait..., current player is 000
+(8) Please wait..., current player is 000
+(7) Please wait..., current player is 000
+(6) Please wait..., current player is 000
+(5) Please wait..., current player is 000
+(4) Please wait..., current player is 000
+(3) Please wait..., current player is 000
+(2) Please wait..., current player is 000
+(1) Please wait..., current player is 000
+(0) 000 guess '2233' and got '0A0B'
+(Broadcast to 1) 000 guess '2233' and got '0A0B'
+(Broadcast to 2) 000 guess '2233' and got '0A0B'
+(Broadcast to 3) 000 guess '2233' and got '0A0B'
+(Broadcast to 4) 000 guess '2233' and got '0A0B'
+(Broadcast to 5) 000 guess '2233' and got '0A0B'
+(Broadcast to 6) 000 guess '2233' and got '0A0B'
+(Broadcast to 7) 000 guess '2233' and got '0A0B'
+(Broadcast to 8) 000 guess '2233' and got '0A0B'
+(Broadcast to 9) 000 guess '2233' and got '0A0B'
+(0) Please wait..., current player is 111
+(1) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 0) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 2) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 3) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 4) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 5) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 6) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 7) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 8) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends
+(Broadcast to 9) 111 guess '1000' and got Bingo!!! 111 wins the game, game ends

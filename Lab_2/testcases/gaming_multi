@@ -1,0 +1,76 @@
+10
+0 udp register 000 0@gmail.com 0
+1 udp register 111 1@gmail.com 1
+2 udp register 222 2@gmail.com 2
+3 udp register 333 3@gmail.com 3
+4 udp register 444 4@gmail.com 4
+5 udp register 555 5@gmail.com 5
+6 udp register 666 6@gmail.com 6
+7 udp register 777 7@gmail.com 7
+8 udp register 888 8@gmail.com 8
+9 udp register 999 9@gmail.com 9
+0 tcp login 000 0
+1 tcp login 111 1
+2 tcp login 222 2
+3 tcp login 333 3
+4 tcp login 444 4
+5 tcp login 555 5
+6 tcp login 666 6
+7 tcp login 777 7
+8 tcp login 888 8
+9 tcp login 999 9
+0 tcp create public room 123
+0 tcp join room 123
+1 tcp join room 123
+2 tcp join room 123
+3 tcp join room 123
+4 tcp join room 123
+5 tcp join room 123
+6 tcp join room 123
+7 tcp join room 123
+8 tcp join room 123
+9 tcp join room 123
+0 tcp start game 2 1000
+0 tcp guess 2233
+1 tcp guess 2233
+2 tcp guess 2233
+3 tcp guess 2233
+4 tcp guess 2233
+5 tcp guess 2233
+6 tcp guess 2233
+7 tcp guess 2233
+8 tcp guess 2233
+9 tcp guess 2233
+0 tcp guess 2233
+1 tcp guess 2233
+2 tcp guess 2233
+3 tcp guess 2233
+4 tcp guess 2233
+5 tcp guess 2233
+6 tcp guess 2233
+7 tcp guess 2233
+8 tcp guess 2233
+9 tcp guess 2233
+0 tcp guess 2233
+1 tcp guess 2233
+2 tcp guess 2233
+3 tcp guess 2233
+4 tcp guess 2233
+5 tcp guess 2233
+6 tcp guess 2233
+7 tcp guess 2233
+8 tcp guess 2233
+9 tcp guess 2233
+0 tcp start game 1 1000
+9 tcp guess 2233
+8 tcp guess 2233
+7 tcp guess 2233
+6 tcp guess 2233
+5 tcp guess 2233
+4 tcp guess 2233
+3 tcp guess 2233
+2 tcp guess 2233
+1 tcp guess 2233
+0 tcp guess 2233
+0 tcp guess 1000
+1 tcp guess 1000

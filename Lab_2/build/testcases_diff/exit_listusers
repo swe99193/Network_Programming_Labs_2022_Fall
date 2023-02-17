@@ -1,0 +1,25 @@
+*** testcases_correct/exit_listusers
+--- build/testcases_your/exit_listusers
+***************
+*** 22,31 ****
+  1. 000<0@gmail.com> Offline
+  2. 111<1@gmail.com> Offline
+  3. 222<2@gmail.com> Offline
+! 4. 333<3@gmail.com> Offline
+! 5. 444<4@gmail.com> Offline
+! 6. 555<5@gmail.com> Offline
+! 7. 666<6@gmail.com> Offline
+! 8. 777<7@gmail.com> Offline
+! 9. 888<8@gmail.com> Offline
+  10. 999<9@gmail.com> Online
+--- 22,31 ----
+  1. 000<0@gmail.com> Offline
+  2. 111<1@gmail.com> Offline
+  3. 222<2@gmail.com> Offline
+! 4. 333<3@gmail.com> Online
+! 5. 444<4@gmail.com> Online
+! 6. 555<5@gmail.com> Online
+! 7. 666<6@gmail.com> Online
+! 8. 777<7@gmail.com> Online
+! 9. 888<8@gmail.com> Online
+  10. 999<9@gmail.com> Online

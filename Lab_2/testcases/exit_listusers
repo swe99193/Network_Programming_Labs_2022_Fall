@@ -1,0 +1,31 @@
+10
+0 udp register 000 0@gmail.com 0
+1 udp register 111 1@gmail.com 1
+2 udp register 222 2@gmail.com 2
+3 udp register 333 3@gmail.com 3
+4 udp register 444 4@gmail.com 4
+5 udp register 555 5@gmail.com 5
+6 udp register 666 6@gmail.com 6
+7 udp register 777 7@gmail.com 7
+8 udp register 888 8@gmail.com 8
+9 udp register 999 9@gmail.com 9
+0 tcp login 000 0
+1 tcp login 111 1
+2 tcp login 222 2
+3 tcp login 333 3
+4 tcp login 444 4
+5 tcp login 555 5
+6 tcp login 666 6
+7 tcp login 777 7
+8 tcp login 888 8
+9 tcp login 999 9
+0 special exit
+1 special exit
+2 special exit
+3 special exit
+4 special exit
+5 special exit
+6 special exit
+7 special exit
+8 special exit
+9 udp list users

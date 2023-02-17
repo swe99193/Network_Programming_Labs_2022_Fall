@@ -1,0 +1,33 @@
+*** testcases_correct/list_invitations_sample
+--- build/testcases_your/list_invitations_sample
+***************
+*** 32,45 ****
+  2. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+  (3) You create private game room 101
+  (3) You send invitation to Coffee<coffee@gmail.com>
+! (Broadcast to 2) You receive invitation from David<david@gmail.com>
+! (2) List invitations
+  1. David<david@gmail.com> invite you to join game room 101, invitation code is 333
+  2. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+  3. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+! (0) You create private game room 203
+! (0) You send invitation to Coffee<coffee@gmail.com>
+! (Broadcast to 2) You receive invitation from Alice<alice@gmail.com>
+  (1) You send invitation to Coffee<coffee@gmail.com>
+  (Broadcast to 2) You receive invitation from Bob<bob@gmail.com>
+  (2) List invitations
+--- 32,45 ----
+  2. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+  (3) You create private game room 101
+  (3) You send invitation to Coffee<coffee@gmail.com>
+! (2) You receive invitation from David<david@gmail.com>
+! (0) You create private game room 203
+! (0) You send invitation to Coffee<coffee@gmail.com>
+! (Broadcast to 2) List invitations
+  1. David<david@gmail.com> invite you to join game room 101, invitation code is 333
+  2. Bob<bob@gmail.com> invite you to join game room 408, invitation code is 22
+  3. Tea<tea@gmail.com> invite you to join game room 703, invitation code is 44444
+! You receive invitation from Alice<alice@gmail.com>
+  (1) You send invitation to Coffee<coffee@gmail.com>
+  (Broadcast to 2) You receive invitation from Bob<bob@gmail.com>
+  (2) List invitations
