@@ -1,0 +1,26 @@
+*** testcases_correct_part3/status-exit
+--- testcases_your/status-exit
+***************
+*** 59,79 ****
+  (2) (2) Server1: 1
+  Server2: 2
+  Server3: 4
+- (1) (1) Server1: 1
+- Server2: 1
+- Server3: 1
+- (0) (0) Server1: 1
+- Server2: 1
+- Server3: 1
+- (0) (0) You are not logged in
+- (0) (0) Server1: 1
+- Server2: 1
+- Server3: 1
+- (2) (0) Goodbye, Gary
+- (2) (2) Server1: 1
+- Server2: 1
+- Server3: 0
+- (2) (2) You are not logged in
+- (2) (1) Server1: 1
+- Server2: 1
+- Server3: 0
+--- 59,61 ----
